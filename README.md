@@ -16,6 +16,7 @@
   </a>
 </div>
 
+Forked because ts tests fail (miss "type": "module" in package.json)
 Generate SVG avatars on client side from a string seed.
 As long as the same version of the library is used it always returns the same avatar for the corresponding seed.
 
